@@ -6,7 +6,7 @@ Portfolio case study for an operational payments and lesson-settlement problem i
 
 **Documentation / solution-design stage.**
 
-At the moment this repository contains the project description only. It does **not** yet contain a working SQL/Python pipeline, dashboard, automation or production data. The sections below describe the business problem and the intended analytical solution.
+At the moment this repository contains the project description and a documented [business case with acceptance scenarios](BUSINESS_CASE.md). It does **not** yet contain a working SQL/Python pipeline, dashboard, automation or production data. The sections below describe the business problem and the intended analytical solution.
 
 ## Business context
 
